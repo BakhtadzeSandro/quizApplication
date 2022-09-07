@@ -1,0 +1,10 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
+.header h2{
+    padding-top: 2%;
+    font-size: 35px;
+}
